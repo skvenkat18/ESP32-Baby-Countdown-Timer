@@ -7,8 +7,6 @@ Countdown timer for baby birth using the LilyGO T-Display S3 Pro. The current ti
 ## Hardware
 
 * LilyGO T-Display S3 Pro
-* ESP32-S3
-* TFT Display
 
 ## Libraries
 
@@ -61,7 +59,3 @@ unsigned long event = 1778481000;
 4. Update Wi-Fi credentials.
 5. Set the event timestamp.
 6. Compile and upload the sketch.
-
-## License
-
-MIT License
